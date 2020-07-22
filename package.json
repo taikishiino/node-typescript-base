@@ -1,0 +1,15 @@
+{
+  "name": "node-typescript-base",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "ts-node ./functions/index.ts"
+  },
+  "author": "taikishiino",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^14.0.24",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.7"
+  }
+}
